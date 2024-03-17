@@ -1,0 +1,21 @@
+.task{
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(174, 174, 174);
+    border: 1px solid lightgrey;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px;
+}
+
+.taskText{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.delBtn{
+    background-color: grey;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
